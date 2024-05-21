@@ -1,0 +1,18 @@
+body {
+    background-color: #E0E9EF; 
+    color: #333; 
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2 {
+    color: #3E6D8E; 
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+}
+
+.container {
+    background-color: #FFF;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4
+}
